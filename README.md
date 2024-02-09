@@ -1,6 +1,6 @@
-# DappRadar Astar DApp Staking
+# DappRadar Astar Dapp Staking
 
-Whitelisted DApp for Astar DApp staking
+Whitelisted Dapp for Astar Dapp staking
 
 ## Deployed contracts
 
